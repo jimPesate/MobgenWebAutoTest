@@ -1,0 +1,21 @@
+group 'mobgen'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.sikuli', name: 'sikuli-api', version: '1.0.+'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.+'
+    compile group: 'commons-io', name: 'commons-io', version: '1.3.+'
+    compile group: 'junit', name: 'junit', version: '4.+'
+    compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.+'
+    compile group: 'net.sf.opencsv', name: 'opencsv', version: '2.+'
+
+}

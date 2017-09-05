@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.sikuli:sikuli-api:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sikuli/sikuli-api/1.0.2/f929f9de4b51de67ecec7d21cff259c8bfef5ab6/sikuli-api-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sikuli/sikuli-api/1.0.2/cc6c00c601fc9167a672ef375ab5a82de4fc025a/sikuli-api-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
